@@ -1,4 +1,4 @@
-DIRBUF is yet another directory bruteforcing tool
+# DIRBUF is yet another directory bruteforcing tool
 - To run it user require go installed on there machine
 - and user have to give firstly {URL} and then {/path} to 
 wordlist file.
